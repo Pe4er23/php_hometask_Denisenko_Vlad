@@ -1,0 +1,18 @@
+{
+    "name": "myhomework/myproject",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Myhomework\\Myproject\\": "Myproject/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vlad"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^4.3",
+        "latte/latte": "^3.0"
+    }
+}
