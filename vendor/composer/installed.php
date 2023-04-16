@@ -10,15 +10,6 @@
         'dev' => true,
     ),
     'versions' => array(
-        'latte/latte' => array(
-            'pretty_version' => 'v3.0.6',
-            'version' => '3.0.6.0',
-            'reference' => '6f66dcfea7ad76f60b8234139161421e9e1e309f',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../latte/latte',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'myhomework/myproject' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',

@@ -1,5 +1,6 @@
 {
     "name": "myhomework/myproject",
+    "description": "My first project",
     "type": "project",
     "autoload": {
         "psr-4": {
@@ -12,7 +13,6 @@
         }
     ],
     "require": {
-        "smarty/smarty": "^4.3",
-        "latte/latte": "^3.0"
+        "smarty/smarty": "^4.3"
     }
 }
